@@ -18,6 +18,9 @@
 ```
 Установите зависимости из файла requirements.txt
 ```
+    python -m pip install --upgrade pip
+```
+```
     pip install -r requirements.txt
 ```
 Для тестирования на Google Chrome скачайте и устанновите браузер(если браузер уже установлен, перейдите к следующему шагу)
